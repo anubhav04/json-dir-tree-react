@@ -1,5 +1,5 @@
-Directory Structure JSON
-========================
+Directory Structure JSON For ReactJs
+====================================
 
 This module exposes functions with which you can:
 
