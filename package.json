@@ -1,9 +1,9 @@
 {
   "name": "json-dir-tree-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Getting directory structures and traversing them in JSON",
   "main": "index.js",
-  "author": "anubhav.chaturvedi04@gmail.com",
+  "author": "anubhav.techanthusiast@gmail.com",
   "license": "MIT",
   "dependencies": {
     "path": "^0.12.7"
@@ -15,5 +15,18 @@
     "type": "git",
     "url": "git+https://github.com/anubhav04/json-dir-tree-react.git"
   },
-  "homepage": "https://github.com/anubhav04/json-dir-tree-react.git#readme"
+  "homepage": "https://github.com/anubhav04/json-dir-tree-react.git#readme",
+  "keywords": [
+    "json",
+    "directory",
+    "structure",
+    "json-structure",
+    "fs",
+    "file structure",
+    "directory structure json",
+    "json directory structure",
+    "reactjs",
+    "directory strucutre json react",
+    "directory strucutre react"
+  ]
 }
