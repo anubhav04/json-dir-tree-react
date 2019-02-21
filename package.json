@@ -1,6 +1,6 @@
 {
   "name": "json-dir-tree-react",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Getting directory structures and traversing them in JSON",
   "main": "index.js",
   "author": "anubhav.techanthusiast@gmail.com",
@@ -27,6 +27,9 @@
     "json directory structure",
     "reactjs",
     "directory strucutre json react",
-    "directory strucutre react"
+    "directory strucutre react",
+    "directory structure in json",
+    "directory structure in json for react",
+    "directory structure in json for reactjs"
   ]
 }
